@@ -1,0 +1,31 @@
+a:hover {
+    color:violet;
+}
+
+
+#examples {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.f5 {
+    font-size:23px;
+}
+
+.forS {
+    color: yellow;
+    background-color: slategrey;
+    
+}
+
+.forD {
+    font-size: 25px;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.body_background {
+    background: linear-gradient(#e66465, #9198e5);
+}
+
